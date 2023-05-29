@@ -1,0 +1,8 @@
+.personal-info-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.personal-info-form-control {
+  margin-bottom: 10px;
+}

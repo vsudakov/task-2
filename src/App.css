@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  justify-content: flex-start;
+  margin: 40px;
+  height: 600px;
+}
+
+.app-stepper {
+  max-width: 150px;
+}
+
+.div-footer {
+  margin-top: 24;
+}

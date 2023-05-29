@@ -1,0 +1,8 @@
+.date-time-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.date-time-form-control {
+  margin-bottom: 10px;
+}
