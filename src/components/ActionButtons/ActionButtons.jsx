@@ -10,7 +10,7 @@ export function ActionButtons({
 }) {
   return (
     <div className="action-buttons">
-      <Button disabled={!!current} onClick={secondaryAction}>
+      <Button disabled={current === 0} onClick={secondaryAction}>
         Prev
       </Button>
       <Button type="primary" onClick={primaryAction}>

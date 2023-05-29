@@ -78,6 +78,7 @@ const App = () => {
             firstName={formValues.firstName}
             lastName={formValues.lastName}
             email={formValues.email}
+            setFormValues={setFormValues}
           />
           <ActionButtons
             current={current}
